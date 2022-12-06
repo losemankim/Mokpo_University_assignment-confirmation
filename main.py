@@ -1,2 +1,4 @@
 #크롤러 만들기
-import 
+import os
+import http
+import requests
